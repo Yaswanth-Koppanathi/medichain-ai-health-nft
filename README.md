@@ -79,6 +79,7 @@ The application follows a modular architecture with these key components:
    ```
    npm run dev
    ```
+![Screenshot 2025-04-13 063014](https://github.com/user-attachments/assets/2f0219f3-fd58-46d2-b3c2-dd966e658b78)
 
 2. Open `index.html` in a web browser or serve it using a static file server
 
