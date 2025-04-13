@@ -91,6 +91,8 @@ The application follows a modular architecture with these key components:
 - The application uses asymmetric encryption to ensure data privacy
 - No plaintext medical data is stored on the blockchain
 
+![Screenshot 2025-04-13 102040](https://github.com/user-attachments/assets/1c14877b-8ba7-414c-b216-82072eeec222)
+
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
